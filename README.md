@@ -1,2 +1,2 @@
 # semantic_vehicle_activity_recognition
-Semantic Vehicle Activity Recognition
+Development of a Deep Learning Approach for Semantic Understanding of Vehicle Activity
